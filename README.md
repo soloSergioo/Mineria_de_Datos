@@ -8,3 +8,5 @@ Respaldo de tarea de la materia Minería de Datos Grupo: 003
 
 [Ejercicios 1](https://github.com/OmarAlejandroGarzaEspinosa/MineriaDeDatos_OmarGarza_1931548/blob/master/Ejercicios1_%7B03%7D_%7B03%7D.pdf)
 [Codigo-Ejercicios 1](https://github.com/armandios/armando/blob/master/Ejercicios_1.ipynb)
+
+[Resumenes - Técnicas de Minería de Datos](https://github.com/soloSergioo/Mineria_de_Datos/blob/master/Resumen_T%C3%A9cnicas-MineriaDeDatos_1805244.pdf)
