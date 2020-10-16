@@ -12,3 +12,6 @@ Respaldo de tarea de la materia Minería de Datos Grupo: 003
 [Resumenes - Técnicas de Minería de Datos](https://github.com/soloSergioo/Mineria_de_Datos/blob/master/Resumen_T%C3%A9cnicas-MineriaDeDatos_1805244.pdf)
 
 [Mapa Mental 2](https://github.com/soloSergioo/Mineria_de_Datos/blob/master/MapaMental_2_1805244.pdf)
+
+
+[Analisis de las Bases de Datos](https://github.com/soloSergioo/Mineria_de_Datos/blob/master/AnalisisBD_1805244.pdf)
