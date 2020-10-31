@@ -20,3 +20,5 @@ Respaldo de tarea de la materia Minería de Datos Grupo: 003
 [Analisis de las Bases de Datos](https://github.com/soloSergioo/Mineria_de_Datos/blob/master/AnalisisBD_1805244.pdf)
 
 [Python Básico Ejercicios](https://github.com/soloSergioo/Mineria_de_Datos/blob/master/PythonBasico_1805244.ipynb)
+
+[Avance PIA](https://github.com/ManuelR37/MineriaDatos/blob/master/Mineria_de_datos_003/Avance1_PIA_Equipo08.pdf)
