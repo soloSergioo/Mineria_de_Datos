@@ -23,7 +23,7 @@ Respaldo de tarea de la materia Minería de Datos Grupo: 003
 
 [Avance PIA](https://github.com/ManuelR37/MineriaDatos/blob/master/Mineria_de_datos_003/Avance1_PIA_Equipo08.pdf)
 
-[Limpieza de Datos](https://github.com/ManuelVqz/Mineria_de_datos/blob/master/Mineria_de_datos_003_Tareas/Limpieza_de_datos.ipynb)
+[P1 - Manipulación de datos](https://github.com/ManuelVqz/Mineria_de_datos/blob/master/Mineria_de_datos_003_Tareas/Limpieza_de_datos.ipynb)
 
-[Visualización de Datos](https://github.com/ManuelVqz/Mineria_de_datos/blob/master/Mineria_de_datos_003_Tareas/Visualizacion_de_datos.ipynb)
+[P2 - Visualización de Datos](https://github.com/ManuelVqz/Mineria_de_datos/blob/master/Mineria_de_datos_003_Tareas/Visualizacion_de_datos.ipynb)
 
