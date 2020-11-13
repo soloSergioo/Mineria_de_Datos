@@ -27,3 +27,6 @@ Respaldo de tarea de la materia Minería de Datos Grupo: 003
 
 [P2 - Visualización de Datos](https://github.com/ManuelVqz/Mineria_de_datos/blob/master/Mineria_de_datos_003_Tareas/Visualizacion_de_datos.ipynb)
 
+**Etapa 3**
+
+[Segundo avance del PIA]()
