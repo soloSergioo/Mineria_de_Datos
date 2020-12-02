@@ -30,3 +30,5 @@ Respaldo de tarea de la materia Minería de Datos Grupo: 003
 **Etapa 3**
 
 [Segundo avance del PIA](https://github.com/soloSergioo/Mineria_de_Datos/blob/master/AvancePIA_II_003_8.ipynb)
+
+[PIA Póster](https://github.com/soloSergioo/Mineria_de_Datos/blob/master/PIA_8_003.pdf)
